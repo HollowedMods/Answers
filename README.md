@@ -1,3 +1,3 @@
 # Answers
 
-![](Start.jpg)
+![](Start.png)
